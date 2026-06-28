@@ -292,6 +292,8 @@ The dashboard successfully:
 - Generated country-wise install statistics
 - Visualized trends through animated choropleth maps
 - Implemented time-based dashboard availability
+##Output  
+![image alt](https://github.com/yashrajmohanty03-ai/Ev2/blob/5dc52f310a416d3f2c5317ec46237cc21a374e52/ev2.jpeg)
 
 ## Conclusion
 
